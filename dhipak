@@ -1,2 +1,10 @@
 hi this is dhipak
 learning git
+use git config --list to see the list and 
+use git clone url to copy or clone the remote repo to local to view or edit the file
+use cd /repo name to list the files in repo and then
+use vi file name to view or edit the file 
+and then use git add file name to track the file 
+and git commit -m to change from staging to local 
+and then use git push -u origin branch name[main]
+then the edited content will be reflected in the remote repo
