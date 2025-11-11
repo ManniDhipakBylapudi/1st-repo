@@ -8,3 +8,5 @@ and vi filename to edit the file
 save the file 
 and then use git add to track the file and git commit -m 
 and then git push -u origin to push the file to repo
+
+and then working on git
